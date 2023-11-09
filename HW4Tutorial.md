@@ -1,5 +1,5 @@
 # BENG 183 HW4 Tutorial
-Special thanks to Jingtian Zhou who wrote the original version of this homework in 2020. This tutorial is written to explain methods for solving the adapted version for the 2022 course.
+Special thanks to Jingtian Zhou who wrote the original version of this homework in 2020. This tutorial is written to explain methods for solving the adapted version for the 2023 course.
 
 ## Preparation
 To complete this homework, using Python, R, or Matlab is viable in analysis of the provided datasets, so feel free to use any of these. However, this tutorial will focus on using python to address the questions, specifically using Jupyter Notebooks for coding. 
@@ -28,7 +28,7 @@ pip install pandas
 You can run these commands for the variety of packages you may need to use for this assignment.
 
 ## Question 3
-This problem involves performing statistical tests on the datasets given, comparing the two columns of each dataset as the two groups for each statistical test.
+This problem involves performing statistical tests on the datasets given, comparing the associated columns of each dataset as the two groups for each statistical test.
 In order to begin, accessing the information in the files can be done in several ways, but one common method is using PANDAS:
 
 ```python
