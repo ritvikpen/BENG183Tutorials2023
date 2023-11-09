@@ -1,5 +1,5 @@
 # BENG 183 HW5 Tutorial
-Special thanks to Jingtian Zhou who wrote the original version of this homework in 2020. This tutorial is written to explain methods for solving the adapted version for the 2022 course.
+Special thanks to Jingtian Zhou who wrote the original version of this homework in 2020. This tutorial is written to explain methods for solving the adapted version for the 2023 course.
 
 ## Preparation
 
